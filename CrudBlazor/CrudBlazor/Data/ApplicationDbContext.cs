@@ -11,5 +11,5 @@ public class ApplicationDbContext: DbContext
     }
 
     //Poner aqui los modelos
-    DbSet<Libro> Libros { get; set; }
+    public DbSet<Libro> Libros { get; set; }
 }
