@@ -1,0 +1,109 @@
+﻿@page "/libros/crear"
+
+@using CrudBlazor.Modelos
+@using CrudBlazor.Repositorio;
+@inject IRepositorio repositorio;
+@inject NavigationManager NavigationManager;
+
+<div class="card">
+    <div class="card-header bg-dark">
+        <div class="row">
+            <div class="col-sm-9">
+                <h2 class="text-info">Crear Libro</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+        <EditForm Model="modeloLibro" OnValidSubmit="@(() => ManejadorCrearLibro())">
+            <DataAnnotationsValidator />
+            <div class="container" style="padding:30px;">
+
+                <div class="form-group">
+                    <div class="row">
+                        <div class="col-sm-2">
+                            <label>Titulo</label>
+                        </div>
+                        <div class="col-sm-6">
+                            <InputText @bind-Value="modeloLibro.Titulo" class="form-control"></InputText>
+                            <ValidationMessage For="() => modeloLibro.Titulo"></ValidationMessage>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="row">
+                        <div class="col-sm-2">
+                            <label>Descripcion</label>
+                        </div>
+                        <div class="col-sm-6">
+                            <InputText @bind-Value="modeloLibro.Descripcion" class="form-control"></InputText>
+                            <ValidationMessage For="() => modeloLibro.Descripcion"></ValidationMessage>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="row">
+                        <div class="col-sm-2">
+                            <label>Autor</label>
+                        </div>
+                        <div class="col-sm-6">
+                            <InputText @bind-Value="modeloLibro.Autor" class="form-control"></InputText>
+                            <ValidationMessage For="() => modeloLibro.Autor"></ValidationMessage>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="row">
+                        <div class="col-sm-2">
+                            <label>Paginas</label>
+                        </div>
+                        <div class="col-sm-6">
+                            <InputNumber @bind-Value="modeloLibro.Paginas" class="form-control"></InputNumber>
+                            <ValidationMessage For="() => modeloLibro.Paginas"></ValidationMessage>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="row">
+                        <div class="col-sm-2">
+                            <label>Precio</label>
+                        </div>
+                        <div class="col-sm-6">
+                            <InputNumber @bind-Value="modeloLibro.Precio" class="form-control"></InputNumber>
+                            <ValidationMessage For="() => modeloLibro.Precio"></ValidationMessage>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group mt-4">
+                    <div class="row">
+                        <div class="col-sm-2">
+                            <button type="submit" class="btn btn-success">Guardar Libro</button>
+                        </div>
+                        <div class="col-sm-6">
+                            <button type="button" class="btn btn-danger" @onclick='() => NavigationManager.NavigateTo("libros")'>Volver</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </EditForm>
+    </div>
+</div>
+
+
+@code {
+    private Libro modeloLibro = new Libro();
+
+    // Metodo para guardar el libro
+    private async Task ManejadorCrearLibro()
+    {
+        
+        var crearLibro = await repositorio.CrearLibro(modeloLibro);
+
+        NavigationManager.NavigateTo("libros");
+
+    }
+}

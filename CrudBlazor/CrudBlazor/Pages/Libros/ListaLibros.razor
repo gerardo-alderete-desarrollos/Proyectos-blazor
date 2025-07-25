@@ -1,0 +1,65 @@
+﻿@page "/libros"
+@using CrudBlazor.Modelos
+@using CrudBlazor.Repositorio;
+@inject IRepositorio repositorio;
+
+
+<div class="card">
+    <div class="card-header bg-dark">
+        <div class="row">
+            <div class="col-sm-9">
+                <h2 class="text-info">Lista Libros</h2>
+            </div>
+            <div class="col-sm-3">
+                <a href="libros/crear" class="btn btn-primary">Crear Nuevo Libro</a>
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+        <table class="table table-striped border">
+            <tr class="table-secondary">
+                <th>ID</th>
+                <th>Titulo</th>
+                <th>Descripcion</th>
+                <th>Autor</th>
+                <th>Paginas</th>
+                <th>Precio</th>
+                <th>Fecha de creacion</th>
+                <th>Acciones</th>
+            </tr>
+            @foreach (var item in listaLibros)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Titulo</td>
+                    <td>@item.Descripcion</td>
+                    <td>@item.Autor</td>
+                    <td>@item.Paginas</td>
+                    <td>@item.Precio</td>
+                    <td>@item.FechaCreacion</td>
+                    <td>
+                        <a href="libros/editar/@item.Id" class="btn btn-success btn-sm">Editar</a>
+                        <button  @onclick="@( () => borrarLibro(item.Id))" class="btn btn-danger btn-sm">Borrar</button> 
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>
+
+@code {
+    private List<Libro> listaLibros = new List<Libro>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        //Cargar la lista de libros al iniciar el componente
+        listaLibros = await repositorio.GetLibros();
+    }
+
+    //Metodo borrar
+    private async Task borrarLibro(int libroId)
+    {
+        await repositorio.EliminarLibro(libroId);
+        listaLibros = await repositorio.GetLibros();
+    }
+}
