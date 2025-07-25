@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazor\\fundamentosblazor\\components\\pages\\comptest.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\components\\pages\\comptest.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazor\\fundamentosblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazor\\fundamentosblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazor\\fundamentosblazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazor\\fundamentosblazor\\components\\pages\\comptest.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\components\\pages\\comptest.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazor\\fundamentosblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazor\\fundamentosblazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazor\\fundamentosblazor\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,30 +54,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 234,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CompTest.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\CompTest.razor",
               "RelativeDocumentMoniker": "FundamentosBlazor\\Components\\Pages\\CompTest.razor",
               "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\CompTest.razor",
               "RelativeToolTip": "FundamentosBlazor\\Components\\Pages\\CompTest.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-25T20:04:12.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "FundamentosBlazor\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "FundamentosBlazor\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-25T19:58:48.989Z",
               "EditorCaption": ""
@@ -92,8 +92,7 @@
               "RelativeToolTip": "FundamentosBlazor\\Components\\Pages\\Weather.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-25T19:58:42.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T19:58:42.948Z"
             },
             {
               "$type": "Document",
@@ -105,8 +104,7 @@
               "RelativeToolTip": "FundamentosBlazor\\Components\\Pages\\Error.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-25T19:58:38.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T19:58:38.007Z"
             },
             {
               "$type": "Document",
@@ -118,8 +116,7 @@
               "RelativeToolTip": "FundamentosBlazor\\Components\\Pages\\Counter.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-25T19:58:35.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T19:58:35.924Z"
             },
             {
               "$type": "Document",
@@ -131,12 +128,11 @@
               "RelativeToolTip": "FundamentosBlazor\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T19:57:50.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T19:57:50.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Routes.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\Components\\Routes.razor",
               "RelativeDocumentMoniker": "FundamentosBlazor\\Components\\Routes.razor",
@@ -144,8 +140,7 @@
               "RelativeToolTip": "FundamentosBlazor\\Components\\Routes.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-25T19:57:10.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T19:57:10.004Z"
             },
             {
               "$type": "Document",
@@ -157,8 +152,7 @@
               "RelativeToolTip": "FundamentosBlazor\\Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-25T19:57:07.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T19:57:07.317Z"
             },
             {
               "$type": "Document",
@@ -170,8 +164,7 @@
               "RelativeToolTip": "FundamentosBlazor\\Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-25T19:56:58.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T19:56:58.483Z"
             },
             {
               "$type": "Document",
@@ -181,7 +174,7 @@
               "RelativeDocumentMoniker": "FundamentosBlazor\\Components\\Layout\\MainLayout.razor",
               "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "FundamentosBlazor\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-25T19:56:55.024Z",
               "EditorCaption": ""
@@ -196,8 +189,7 @@
               "RelativeToolTip": "FundamentosBlazor\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-25T19:56:45.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T19:56:45.644Z"
             }
           ]
         }
