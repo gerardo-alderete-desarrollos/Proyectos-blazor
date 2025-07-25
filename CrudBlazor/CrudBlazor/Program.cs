@@ -1,4 +1,5 @@
 using CrudBlazor.Data;
+using CrudBlazor.Repositorio;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.EntityFrameworkCore;
@@ -13,6 +14,9 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
+
+// Se añade como inyecion de dependencias el repositorio
+builder.Services.AddScoped<IRepositorio,Repositorio>();
 
 var app = builder.Build();
 
