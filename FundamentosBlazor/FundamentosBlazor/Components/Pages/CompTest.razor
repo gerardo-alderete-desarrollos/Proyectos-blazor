@@ -1,6 +1,24 @@
-﻿@page "/test"
+﻿@* @page "/test/{Categoria}/{Id:int?}" *@
+@page "/test"
+@page "/ejemplo"
+
+@inject NavigationManager Navigation;
+
 <h3>Bienvenido a la pagina Test</h3>
 
-@code {
+<button @onclick="IrAPagina" class="btn btn-primary">Ir a Página</button>
 
+@* <h4>Detalle del ítem con ID: @Id</h4>
+<h4>La categoria es: @Categoria</h4> *@
+@code {
+    [Parameter]
+    public int? Id { get; set; }
+
+    [Parameter]
+    public string Categoria { get; set; }
+
+    void IrAPagina()
+    {
+        Navigation.NavigateTo("/Counter");
+    }
 }
