@@ -2,11 +2,16 @@
 @page "/test"
 @page "/ejemplo"
 
+@inject IConfiguration Configuration;
 @inject NavigationManager Navigation;
 
 <h3>Bienvenido a la pagina Test</h3>
 
 <button @onclick="IrAPagina" class="btn btn-primary">Ir a Página</button>
+
+<h3>Valores de configuracion</h3>
+<p>Url de la API: @UrlApi</p>
+<p>Caracteristica activada: @ActivarCaracteristica</p>
 
 @* <h4>Detalle del ítem con ID: @Id</h4>
 <h4>La categoria es: @Categoria</h4> *@
@@ -15,7 +20,17 @@
     public int? Id { get; set; }
 
     [Parameter]
-    public string Categoria { get; set; }
+    public string? Categoria { get; set; }
+
+    private string? UrlApi;
+    private bool ActivarCaracteristica;
+
+    protected override void OnInitialized()
+    {
+        // Acceder a los valores de configuración
+        UrlApi = Configuration["ConfiguracionAplicacion:UrlApi"];
+        ActivarCaracteristica = bool.Parse(Configuration["ConfiguracionAplicacion:ActivarCaracteristica"] ?? "false");
+    }
 
     void IrAPagina()
     {
