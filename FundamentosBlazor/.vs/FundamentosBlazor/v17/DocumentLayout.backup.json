@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazor\\fundamentosblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazor\\fundamentosblazor\\components\\pages\\comptest.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\components\\pages\\comptest.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 234,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a975660a-81e4-4830-aa25-1b824c3bf732}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompTest.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\CompTest.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazor\\Components\\Pages\\CompTest.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\CompTest.razor",
+              "RelativeToolTip": "FundamentosBlazor\\Components\\Pages\\CompTest.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T19:03:38.945Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "FundamentosBlazor\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "FundamentosBlazor\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCAAAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\Home.razor*",
+              "RelativeToolTip": "FundamentosBlazor\\Components\\Pages\\Home.razor*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-29T18:53:16.49Z",
               "EditorCaption": ""
