@@ -1,0 +1,10 @@
+﻿@page "/inyeccion";
+@inject IMyService myService;
+
+<h3>Pagina Inyeccion de dependencias</h3>
+<p>@myService.GetMessage()</p>
+
+@code {
+
+
+}
