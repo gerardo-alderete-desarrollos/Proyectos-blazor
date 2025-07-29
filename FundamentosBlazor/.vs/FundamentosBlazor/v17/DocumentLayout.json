@@ -3,31 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazor\\fundamentosblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ge_ca\\AppData\\Roaming\\Microsoft\\UserSecrets\\86ed4047-c62c-4b68-ad59-b89ee695b17a\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazor\\fundamentosblazor\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazor\\fundamentosblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazor\\fundamentosblazor\\components\\pages\\comptest.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\components\\pages\\comptest.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazor\\fundamentosblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazor\\fundamentosblazor\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{17B155D5-AC75-4D25-A42A-FC9B05CE3B9E}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 234,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,93 +42,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\ge_ca\\AppData\\Roaming\\Microsoft\\UserSecrets\\86ed4047-c62c-4b68-ad59-b89ee695b17a\\secrets.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\86ed4047-c62c-4b68-ad59-b89ee695b17a\\secrets.json",
-              "ToolTip": "C:\\Users\\ge_ca\\AppData\\Roaming\\Microsoft\\UserSecrets\\86ed4047-c62c-4b68-ad59-b89ee695b17a\\secrets.json",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\86ed4047-c62c-4b68-ad59-b89ee695b17a\\secrets.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-28T22:31:33.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\Program.cs",
-              "RelativeDocumentMoniker": "FundamentosBlazor\\Program.cs",
-              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\Program.cs",
-              "RelativeToolTip": "FundamentosBlazor\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T22:30:24.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "FundamentosBlazor\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\appsettings.Development.json",
-              "RelativeToolTip": "FundamentosBlazor\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-28T22:28:16.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CompTest.razor",
-              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\CompTest.razor",
-              "RelativeDocumentMoniker": "FundamentosBlazor\\Components\\Pages\\CompTest.razor",
-              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\CompTest.razor",
-              "RelativeToolTip": "FundamentosBlazor\\Components\\Pages\\CompTest.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T20:53:46.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "FundamentosBlazor\\Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "FundamentosBlazor\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T20:45:27.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "FundamentosBlazor\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\Properties\\launchSettings.json",
-              "RelativeToolTip": "FundamentosBlazor\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-28T20:39:30.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\appsettings.json",
-              "RelativeDocumentMoniker": "FundamentosBlazor\\appsettings.json",
-              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazor\\FundamentosBlazor\\appsettings.json",
-              "RelativeToolTip": "FundamentosBlazor\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-28T20:39:20.036Z",
+              "WhenOpened": "2025-07-29T18:53:16.49Z",
               "EditorCaption": ""
             }
           ]
