@@ -1,0 +1,13 @@
+﻿@page "/otro-contador"
+
+<h3>OtroContador</h3>
+
+<button class="btn btn-secondary" @onclick="ContadorClick">Has hecho click @contador veces</button>
+@code {
+    private int contador = 0;
+
+    private void ContadorClick()
+    {
+        contador++;
+    }
+}

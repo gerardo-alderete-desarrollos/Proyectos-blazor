@@ -1,0 +1,29 @@
+﻿@page "/sintaxis-razor"
+@inject IConfiguration Config;
+
+<h3>SintaxisRazor</h3>
+
+@{
+    var a = 5;
+    var b = 3;
+    var c = a * b;
+}
+
+@c
+<br/>
+@@web;
+
+<p>
+    @(d + e)
+</p>
+
+@* @Microsoft.AspNetCore.Html.Raw("<p>Hola mundo</p>")
+ *@
+
+@((MarkupString)"<p>Hola mundo</p>")
+
+@code {
+    private string web = "http://render2web.com";
+    private int d = 4;
+    private int e = 3;
+}
