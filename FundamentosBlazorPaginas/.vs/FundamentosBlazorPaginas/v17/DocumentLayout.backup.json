@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorPaginas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{32CABCA8-BE5B-48F6-88C3-1279FAFC24E4}|FundamentosBlazorPaginas\\FundamentosBlazorPaginas.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorpaginas\\fundamentosblazorpaginas\\components\\layout\\layoutpersonalizado.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32CABCA8-BE5B-48F6-88C3-1279FAFC24E4}|FundamentosBlazorPaginas\\FundamentosBlazorPaginas.csproj|solutionrelative:fundamentosblazorpaginas\\components\\layout\\layoutpersonalizado.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CABCA8-BE5B-48F6-88C3-1279FAFC24E4}|FundamentosBlazorPaginas\\FundamentosBlazorPaginas.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorpaginas\\fundamentosblazorpaginas\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32CABCA8-BE5B-48F6-88C3-1279FAFC24E4}|FundamentosBlazorPaginas\\FundamentosBlazorPaginas.csproj|solutionrelative:fundamentosblazorpaginas\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CABCA8-BE5B-48F6-88C3-1279FAFC24E4}|FundamentosBlazorPaginas\\FundamentosBlazorPaginas.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorpaginas\\fundamentosblazorpaginas\\components\\pages\\sintaxisrazor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32CABCA8-BE5B-48F6-88C3-1279FAFC24E4}|FundamentosBlazorPaginas\\FundamentosBlazorPaginas.csproj|solutionrelative:fundamentosblazorpaginas\\components\\pages\\sintaxisrazor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CABCA8-BE5B-48F6-88C3-1279FAFC24E4}|FundamentosBlazorPaginas\\FundamentosBlazorPaginas.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorpaginas\\fundamentosblazorpaginas\\components\\pages\\otrocontador.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32CABCA8-BE5B-48F6-88C3-1279FAFC24E4}|FundamentosBlazorPaginas\\FundamentosBlazorPaginas.csproj|solutionrelative:fundamentosblazorpaginas\\components\\pages\\otrocontador.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32CABCA8-BE5B-48F6-88C3-1279FAFC24E4}|FundamentosBlazorPaginas\\FundamentosBlazorPaginas.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorpaginas\\fundamentosblazorpaginas\\components\\pages\\listaelementos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{32CABCA8-BE5B-48F6-88C3-1279FAFC24E4}|FundamentosBlazorPaginas\\FundamentosBlazorPaginas.csproj|solutionrelative:fundamentosblazorpaginas\\components\\pages\\listaelementos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32CABCA8-BE5B-48F6-88C3-1279FAFC24E4}|FundamentosBlazorPaginas\\FundamentosBlazorPaginas.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorpaginas\\fundamentosblazorpaginas\\components\\pages\\listaelementos.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32CABCA8-BE5B-48F6-88C3-1279FAFC24E4}|FundamentosBlazorPaginas\\FundamentosBlazorPaginas.csproj|solutionrelative:fundamentosblazorpaginas\\components\\pages\\listaelementos.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{32CABCA8-BE5B-48F6-88C3-1279FAFC24E4}|FundamentosBlazorPaginas\\FundamentosBlazorPaginas.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorpaginas\\fundamentosblazorpaginas\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{32CABCA8-BE5B-48F6-88C3-1279FAFC24E4}|FundamentosBlazorPaginas\\FundamentosBlazorPaginas.csproj|solutionrelative:fundamentosblazorpaginas\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CABCA8-BE5B-48F6-88C3-1279FAFC24E4}|FundamentosBlazorPaginas\\FundamentosBlazorPaginas.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorpaginas\\fundamentosblazorpaginas\\components\\pages\\listaelementos.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CABCA8-BE5B-48F6-88C3-1279FAFC24E4}|FundamentosBlazorPaginas\\FundamentosBlazorPaginas.csproj|solutionrelative:fundamentosblazorpaginas\\components\\pages\\listaelementos.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +38,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 234,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a975660a-81e4-4830-aa25-1b824c3bf732}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LayoutPersonalizado.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorPaginas\\FundamentosBlazorPaginas\\Components\\Layout\\LayoutPersonalizado.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorPaginas\\Components\\Layout\\LayoutPersonalizado.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorPaginas\\FundamentosBlazorPaginas\\Components\\Layout\\LayoutPersonalizado.razor",
+              "RelativeToolTip": "FundamentosBlazorPaginas\\Components\\Layout\\LayoutPersonalizado.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T22:43:20.727Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorPaginas\\FundamentosBlazorPaginas\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorPaginas\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorPaginas\\FundamentosBlazorPaginas\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "FundamentosBlazorPaginas\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T22:38:19.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OtroContador.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorPaginas\\FundamentosBlazorPaginas\\Components\\Pages\\OtroContador.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorPaginas\\Components\\Pages\\OtroContador.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorPaginas\\FundamentosBlazorPaginas\\Components\\Pages\\OtroContador.razor",
+              "RelativeToolTip": "FundamentosBlazorPaginas\\Components\\Pages\\OtroContador.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T22:32:38.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SintaxisRazor.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorPaginas\\FundamentosBlazorPaginas\\Components\\Pages\\SintaxisRazor.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorPaginas\\Components\\Pages\\SintaxisRazor.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorPaginas\\FundamentosBlazorPaginas\\Components\\Pages\\SintaxisRazor.razor",
+              "RelativeToolTip": "FundamentosBlazorPaginas\\Components\\Pages\\SintaxisRazor.razor",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T20:58:07.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ListaElementos.razor.cs",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorPaginas\\FundamentosBlazorPaginas\\Components\\Pages\\ListaElementos.razor.cs",
               "RelativeDocumentMoniker": "FundamentosBlazorPaginas\\Components\\Pages\\ListaElementos.razor.cs",
@@ -34,31 +126,30 @@
               "RelativeToolTip": "FundamentosBlazorPaginas\\Components\\Pages\\ListaElementos.razor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T20:46:09.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T20:46:09.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ListaElementos.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorPaginas\\FundamentosBlazorPaginas\\Components\\Pages\\ListaElementos.razor",
               "RelativeDocumentMoniker": "FundamentosBlazorPaginas\\Components\\Pages\\ListaElementos.razor",
               "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorPaginas\\FundamentosBlazorPaginas\\Components\\Pages\\ListaElementos.razor",
               "RelativeToolTip": "FundamentosBlazorPaginas\\Components\\Pages\\ListaElementos.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-29T20:18:06.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorPaginas\\FundamentosBlazorPaginas\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "FundamentosBlazorPaginas\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorPaginas\\FundamentosBlazorPaginas\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "FundamentosBlazorPaginas\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-29T20:13:08.525Z",
               "EditorCaption": ""
