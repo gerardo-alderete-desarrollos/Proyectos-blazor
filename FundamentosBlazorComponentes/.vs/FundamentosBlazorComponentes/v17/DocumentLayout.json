@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\cascada\\componentehijo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\cascada\\componentehijo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\cascada\\temapadre.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\cascada\\temapadre.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\padremultiplerenderfragment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\padremultiplerenderfragment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\comprenderfragment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\comprenderfragment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\formularioregistro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\formularioregistro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\twowaydatabinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\twowaydatabinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\listacompletausuarios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\listacompletausuarios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\onewaydatabinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\onewaydatabinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\componentepadreeventcallback.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\componentepadreeventcallback.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -55,6 +91,120 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ComponenteHijo.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\Cascada\\ComponenteHijo.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\Cascada\\ComponenteHijo.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\Cascada\\ComponenteHijo.razor",
+              "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\Cascada\\ComponenteHijo.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T22:47:49.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TemaPadre.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\Cascada\\TemaPadre.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\Cascada\\TemaPadre.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\Cascada\\TemaPadre.razor",
+              "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\Cascada\\TemaPadre.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T22:44:29.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PadreMultipleRenderFragment.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\PadreMultipleRenderFragment.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\PadreMultipleRenderFragment.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\PadreMultipleRenderFragment.razor",
+              "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\PadreMultipleRenderFragment.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T20:57:41.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\wwwroot\\app.css",
+              "RelativeToolTip": "FundamentosBlazorComponentes\\wwwroot\\app.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-31T20:56:49.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompRenderFragment.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\CompRenderFragment.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\CompRenderFragment.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\CompRenderFragment.razor",
+              "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\CompRenderFragment.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T20:55:18.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormularioRegistro.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\FormularioRegistro.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\FormularioRegistro.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\FormularioRegistro.razor",
+              "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\FormularioRegistro.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T18:41:11.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TwoWayDataBinding.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\TwoWayDataBinding.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\TwoWayDataBinding.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\TwoWayDataBinding.razor",
+              "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\TwoWayDataBinding.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T18:35:08.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListaCompletaUsuarios.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\ListaCompletaUsuarios.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\ListaCompletaUsuarios.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\ListaCompletaUsuarios.razor",
+              "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\ListaCompletaUsuarios.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T18:27:18.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OneWayDataBinding.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\OneWayDataBinding.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\OneWayDataBinding.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\OneWayDataBinding.razor",
+              "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\OneWayDataBinding.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T18:13:53.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ComponentePadreEventCallback.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\ComponentePadreEventCallback.razor",
               "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\ComponentePadreEventCallback.razor",
@@ -62,12 +212,11 @@
               "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\ComponentePadreEventCallback.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T17:34:38.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T17:34:38.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "EventCallback.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\EventCallback.razor",
               "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\EventCallback.razor",
@@ -79,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Modelos\\Persona.cs",
               "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Modelos\\Persona.cs",
@@ -91,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\Home.razor",
