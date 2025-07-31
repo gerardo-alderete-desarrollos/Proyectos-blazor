@@ -1,0 +1,10 @@
+﻿@page "/twoway"
+
+<h3>Two Way DataBinding</h3>
+<input @bind="nombreUsuario" />
+
+<p>Nombre del usuario: @nombreUsuario</p>
+
+@code {
+    private string nombreUsuario = "render2web";
+}

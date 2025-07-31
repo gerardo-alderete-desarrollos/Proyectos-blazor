@@ -1,0 +1,18 @@
+﻿@page "/callback"
+
+<h3>Componente Padre EventCallback</h3>
+
+<p>El valor manejado en el padre es: @ValorPadre</p>
+
+<EventCallback ValorActual="@ValorPadre" OnValorCambiado="ActualizarValor">
+
+</EventCallback>
+
+@code {
+    private int ValorPadre = 0;
+
+    private void ActualizarValor(int nuevoValor)
+    {
+        ValorPadre = nuevoValor; // Actualiza el valor en el componente padre
+    }
+}

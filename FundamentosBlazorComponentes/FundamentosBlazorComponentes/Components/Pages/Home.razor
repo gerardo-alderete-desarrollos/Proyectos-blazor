@@ -1,0 +1,26 @@
+﻿@page "/"
+@using FundamentosBlazorComponentes.Components.AttributeSplatting
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<CompBoton Texto="Contactar" id="boton-enviar" class="btn btn-danger" style="font-size: 20px"/>
+<CompBoton Texto="Aceptar" @attributes="atributosBoton2"/>
+
+@code{
+    public Dictionary<string, object> atributosBoton1 = new Dictionary<string, object>
+    {
+        {"class", "btn btn-success"},
+        {"style", "font-size: 18px"}
+    };
+
+    public Dictionary<string, object> atributosBoton2 = new Dictionary<string, object>
+    {
+        {"class", "btn btn-warning"},
+        {"style", "font-size: 32px"}
+    };
+
+}

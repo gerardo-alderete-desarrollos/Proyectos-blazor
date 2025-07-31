@@ -1,0 +1,23 @@
+﻿<h3>Múltiple Render Fragment</h3>
+
+<div class="tarjeta">
+    <div class="tarjeta-encabezado">
+        @Encabezado
+    </div>
+    <div class="tarjeta-encabezado">
+        @Cuerpo
+    </div>
+    <div class="tarjeta-encabezado">
+        @PieDePagina
+    </div>
+</div>
+
+
+@code {
+    [Parameter]
+    public RenderFragment? Encabezado { get; set; }
+    [Parameter]
+    public RenderFragment? Cuerpo { get; set; }
+    [Parameter]
+    public RenderFragment? PieDePagina { get; set; }
+}

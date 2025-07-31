@@ -1,0 +1,20 @@
+﻿@page "/lista-productos"
+
+<h3>Lista de Productos</h3>
+
+<div>
+    <h2>Lista de Productos</h2>
+    @foreach (var producto in Productos)
+    {
+        <ProductoCard Producto="producto"></ProductoCard>
+    }
+</div>
+
+@code {
+    private List<Producto> Productos { get; set; } = new List<Producto>
+    {
+    new Producto { Id = 1, Nombre = "Laptop", Descripcion = "Laptop de alta gama", Precio = 1200.99M },
+    new Producto { Id = 2, Nombre = "Teléfono", Descripcion = "Teléfono inteligente", Precio = 799.99M },
+    new Producto { Id = 3, Nombre = "Auriculares", Descripcion = "Auriculares inalámbricos", Precio = 199.99M }
+    };
+}

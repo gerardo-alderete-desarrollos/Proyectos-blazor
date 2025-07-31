@@ -1,0 +1,14 @@
+﻿
+<div class="card">
+    <div class="card-header">
+        <h4>@Producto.Nombre</h4>
+    </div>
+    <div class="card-body">
+        <DetallesProducto Producto="Producto"></DetallesProducto>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public Producto Producto { get; set; }
+}
