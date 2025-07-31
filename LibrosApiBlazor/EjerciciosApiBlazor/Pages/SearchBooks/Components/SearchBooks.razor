@@ -1,0 +1,16 @@
+﻿<EditForm Model="this" OnValidSubmit="Buscar" class="d-flex flex-column gap-2 w-auto mb-4">
+    <InputText @bind-Value="searchTerm" class="form-control" placeholder="Título del libro..." />
+    <button type="submit" class="btn btn-primary">Buscar</button>
+</EditForm>
+
+@code {
+    [Parameter]
+    public EventCallback<string> onSearchTerm { get; set; }
+
+    private string searchTerm = string.Empty;
+
+    private async Task Buscar()
+    {
+        await onSearchTerm.InvokeAsync(searchTerm);
+    }
+}
