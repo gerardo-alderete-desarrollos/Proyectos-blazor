@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\directoriopersonas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\directoriopersonas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\modelos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\modelos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\listausuarios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\listausuarios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\perfilusuario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\perfilusuario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\paginacomponentes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\paginacomponentes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -55,6 +75,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DirectorioPersonas.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\DirectorioPersonas.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\DirectorioPersonas.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\DirectorioPersonas.razor",
+              "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\DirectorioPersonas.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T15:08:35.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Modelos\\Persona.cs",
+              "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Modelos\\Persona.cs",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Modelos\\Persona.cs",
+              "RelativeToolTip": "FundamentosBlazorComponentes\\Modelos\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:01:37.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListaUsuarios.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\ListaUsuarios.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\ListaUsuarios.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\ListaUsuarios.razor",
+              "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\ListaUsuarios.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T14:55:36.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PerfilUsuario.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\PerfilUsuario.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\PerfilUsuario.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\PerfilUsuario.razor",
+              "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\PerfilUsuario.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T14:50:50.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaginaComponentes.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\PaginaComponentes.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\PaginaComponentes.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\PaginaComponentes.razor",
+              "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\PaginaComponentes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T14:49:03.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\Home.razor",
@@ -62,12 +143,11 @@
               "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T19:35:04.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T19:35:04.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "CompBoton.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\AttributeSplatting\\CompBoton.razor",
               "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\AttributeSplatting\\CompBoton.razor",
@@ -79,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ComponenteHijo.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\Cascada\\ComponenteHijo.razor",
               "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\Cascada\\ComponenteHijo.razor",
@@ -91,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "TemaPadre.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\Cascada\\TemaPadre.razor",
               "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\Cascada\\TemaPadre.razor",
