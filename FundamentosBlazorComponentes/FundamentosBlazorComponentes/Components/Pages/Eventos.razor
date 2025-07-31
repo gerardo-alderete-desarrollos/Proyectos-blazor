@@ -1,0 +1,64 @@
+﻿@page "/eventos"
+@* 
+Blazor permite manejar varios tipos de eventos, que se pueden categorizar en:
+
+Eventos del Mouse: Capturan interacciones como clics, desplazamientos o movimientos.
+
+@onclick: Se dispara cuando se hace clic en un elemento.
+@onmouseover: Se dispara cuando el puntero pasa sobre el elemento.
+@onmouseout: Se dispara cuando el puntero deja el elemento.
+
+Eventos de Teclado: Capturan acciones como la presión de teclas.
+
+@onkeydown: Se dispara cuando se presiona una tecla.
+@onkeyup: Se dispara cuando se suelta una tecla.
+
+Eventos de Formulario: Capturan acciones relacionadas con formularios, 
+como cuando el valor de un input cambia.
+
+@oninput: Se dispara cuando cambia el valor de un campo de entrada.
+@onchange: Se dispara cuando un valor es confirmado o cambiado (por ejemplo, al seleccionar un valor de un dropdown).
+@onsubmit: Se dispara cuando se envía un formulario.
+
+Eventos de Ciclo de Vida del Componente: Estos eventos están relacionados con la creación, 
+inicialización y eliminación de componentes.
+
+OnInitialized y OnInitializedAsync: Se ejecuta cuando se inicializa el componente.
+OnParametersSet y OnParametersSetAsync: Se ejecuta cuando los parámetros del 
+componente son establecidos.
+*@
+<h3>Eventos</h3>
+
+<button @onclick="OnButtonClick">Haz click aquí</button>
+<p>@mensaje</p>
+
+<div @onmouseover="OnMouseOver" style="border: 1px solid black; padding: 10px;">
+    Pasa el mouse sobre este texto
+</div>
+
+<p>@mensajeHover</p>
+
+<input type="text" @oninput="OnInputChange" />
+<p>Valor actual: @valorInput</p>
+
+
+@code {
+    private string mensaje = "No se ha hecho click aún";
+    private string mensajeHover = "No se ha padado el mouse aún.";
+    private string valorInput = "";
+
+    private void OnButtonClick()
+    {
+        mensaje = "¡Botón clickeado!";
+    }
+
+    private void OnMouseOver()
+    {
+        mensajeHover = "¡Mouse está sobre el elemento!";
+    }
+
+    private void OnInputChange(ChangeEventArgs e)
+    {
+        valorInput = e.Value.ToString();
+    }
+}

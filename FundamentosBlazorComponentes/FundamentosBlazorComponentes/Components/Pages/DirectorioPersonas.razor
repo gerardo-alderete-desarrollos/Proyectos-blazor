@@ -1,0 +1,76 @@
+﻿@page "/directorio-personas"
+<h3>Directorio de Personas</h3>
+
+<div class="row">
+    @foreach (var persona in Personas)
+    {
+        <div class="col-4">
+            <ComponentePersona Nombres="@persona.Nombres" Apellidos="@persona.Apellidos">
+                <FragmentoDirecciones>
+                    @if (persona.Direcciones.Count > 0)
+                    {
+                        <h3>Direcciones</h3>
+                        @foreach (var direccion in persona.Direcciones)
+                        {
+                            <ComponenteDirecciones Direccion="@direccion"></ComponenteDirecciones>
+                        }
+                    }
+                </FragmentoDirecciones>
+            </ComponentePersona>
+        </div>
+    }
+</div>
+
+@code{
+    public List<Persona> Personas { get; set; }
+    
+    public DirectorioPersonas()
+    {
+        Personas = new List<Persona>
+        {
+            new Persona
+            {
+                Nombres = "José",
+                Apellidos = "Montoya",
+                Direcciones = new List<Direcciones>
+                {
+                    new Direcciones
+                    {
+                       TipoDireccion = "Casa",
+                       Direccion = "Calle 53",
+                       Departamento = "Risaralda",
+                       Ciudad = "Pereira"
+                    },
+                    new Direcciones
+                    {
+                       TipoDireccion = "Trabajo",
+                       Direccion = "Carrera 12 calle 5",
+                       Departamento = "Risaralda",
+                       Ciudad = "Pereira"
+                    }
+                }
+            },
+            new Persona
+            {
+                Nombres = "Johana",
+                Apellidos = "López",
+                Direcciones = new List<Direcciones>
+                {
+                    new Direcciones
+                    {
+                       TipoDireccion = "Casa",
+                       Direccion = "Calle 20",
+                       Departamento = "Valle del Cauca",
+                       Ciudad = "Cali"
+                    }
+                }
+            },
+            new Persona
+            {
+                Nombres = "Alexander",
+                Apellidos = "Castaño",
+                Direcciones = new List<Direcciones>()
+            }
+        };
+    }
+}

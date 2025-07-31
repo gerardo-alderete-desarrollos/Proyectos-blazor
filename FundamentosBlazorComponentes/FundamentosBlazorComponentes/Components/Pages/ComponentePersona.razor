@@ -1,0 +1,11 @@
+﻿<h3>@Nombres @Apellidos</h3>
+@FragmentoDirecciones
+
+@code {
+    [Parameter]
+    public string Nombres { get; set; }
+    [Parameter]
+    public string Apellidos { get; set; }
+    [Parameter]
+    public RenderFragment FragmentoDirecciones { get; set; }
+}
