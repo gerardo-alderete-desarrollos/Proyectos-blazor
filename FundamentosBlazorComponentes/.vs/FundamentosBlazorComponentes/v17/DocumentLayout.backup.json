@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\comprenderfragment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\comprenderfragment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\formularioregistro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\formularioregistro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\twowaydatabinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\twowaydatabinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\listacompletausuarios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\listacompletausuarios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\onewaydatabinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\onewaydatabinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\componentepadreeventcallback.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6D8E79CC-D8DC-4061-8086-6E5649CF3FF2}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\componentepadreeventcallback.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -55,6 +75,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CompRenderFragment.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\CompRenderFragment.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\CompRenderFragment.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\CompRenderFragment.razor",
+              "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\CompRenderFragment.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T20:55:18.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormularioRegistro.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\FormularioRegistro.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\FormularioRegistro.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\FormularioRegistro.razor",
+              "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\FormularioRegistro.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T18:41:11.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TwoWayDataBinding.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\TwoWayDataBinding.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\TwoWayDataBinding.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\TwoWayDataBinding.razor",
+              "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\TwoWayDataBinding.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T18:35:08.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListaCompletaUsuarios.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\ListaCompletaUsuarios.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\ListaCompletaUsuarios.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\ListaCompletaUsuarios.razor",
+              "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\ListaCompletaUsuarios.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T18:27:18.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OneWayDataBinding.razor",
+              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\OneWayDataBinding.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\OneWayDataBinding.razor",
+              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\OneWayDataBinding.razor",
+              "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\OneWayDataBinding.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T18:13:53.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ComponentePadreEventCallback.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\ComponentePadreEventCallback.razor",
               "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\ComponentePadreEventCallback.razor",
@@ -62,12 +144,11 @@
               "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\ComponentePadreEventCallback.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T17:34:38.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T17:34:38.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "EventCallback.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\EventCallback.razor",
               "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\EventCallback.razor",
@@ -75,12 +156,11 @@
               "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\EventCallback.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T17:29:55.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T17:29:55.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Modelos\\Persona.cs",
               "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Modelos\\Persona.cs",
@@ -92,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\Home.razor",
