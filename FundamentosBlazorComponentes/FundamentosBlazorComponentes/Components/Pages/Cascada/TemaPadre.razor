@@ -1,0 +1,14 @@
+﻿@page "/tema-padre"
+<CascadingValue Name="TemaGlobal" Value="temaGlobal">
+    <h3>Configuración Tema Global</h3>
+    <CascadingValue Name="IdiomaGlobal" Value="idiomaGlobal">
+        <ComponenteHijo />
+    </CascadingValue>   
+</CascadingValue>
+
+
+
+@code {
+    private string temaGlobal = "Oscuro";
+    private string idiomaGlobal = "Frances";
+}

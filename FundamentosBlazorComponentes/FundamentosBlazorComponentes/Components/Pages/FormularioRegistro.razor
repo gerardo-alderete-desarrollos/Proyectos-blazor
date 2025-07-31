@@ -1,0 +1,26 @@
+﻿@page "/formulario-registro"
+
+<h3>Formulario de Registro</h3>
+
+<input @bind="nuevoUsuario.Nombre" placeholder="Nombre"/>
+<input @bind="nuevoUsuario.Email" placeholder="Email"/>
+<input  type="password" @bind="nuevoUsuario.Password" placeholder="Contraseña"/>
+
+<button @onclick="RegistrarUsuario">Registrar</button>
+
+@code {
+    private Usuario nuevoUsuario = new Usuario();
+
+    private void RegistrarUsuario()
+    {
+        // Lógica para registrar al usuario
+        Console.WriteLine($"Usuario registrado: {nuevoUsuario.Nombre}, {nuevoUsuario.Email}");
+    }
+
+    public class Usuario
+    {
+        public string Nombre { get; set; }
+        public string Email { get; set; }
+        public string Password { get; set; }
+    }
+}

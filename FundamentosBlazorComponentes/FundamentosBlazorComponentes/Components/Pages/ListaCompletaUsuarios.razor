@@ -1,0 +1,18 @@
+﻿@page "/usuarios-completos"
+<h3>Lista Completa Usuarios</h3>
+
+<ul>
+    @foreach (var persona in personas)
+    {
+        <li>@persona.Nombres (@persona.Apellidos)</li>
+    }
+</ul>
+
+@code {
+    private List<Persona> personas = new List<Persona>
+    {
+        new Persona {Nombres = "José", Apellidos = "Montoya"},
+        new Persona {Nombres = "Carlos", Apellidos = "García"},
+        new Persona {Nombres = "Johana", Apellidos = "Vélez"}
+    };
+}

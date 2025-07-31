@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{437975C1-F5CE-4676-BAA5-56805DE29A47}|CrudBlazor\\CrudBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\crudblazor\\crudblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437975C1-F5CE-4676-BAA5-56805DE29A47}|CrudBlazor\\CrudBlazor.csproj|solutionrelative:crudblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{437975C1-F5CE-4676-BAA5-56805DE29A47}|CrudBlazor\\CrudBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\crudblazor\\crudblazor\\pages\\libros\\listalibros.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{437975C1-F5CE-4676-BAA5-56805DE29A47}|CrudBlazor\\CrudBlazor.csproj|solutionrelative:crudblazor\\pages\\libros\\listalibros.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437975C1-F5CE-4676-BAA5-56805DE29A47}|CrudBlazor\\CrudBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\crudblazor\\crudblazor\\repositorio\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437975C1-F5CE-4676-BAA5-56805DE29A47}|CrudBlazor\\CrudBlazor.csproj|solutionrelative:crudblazor\\repositorio\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{437975C1-F5CE-4676-BAA5-56805DE29A47}|CrudBlazor\\CrudBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\crudblazor\\crudblazor\\pages\\libros\\editarlibro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,20 +27,8 @@
       "RelativeMoniker": "D:0:0:{437975C1-F5CE-4676-BAA5-56805DE29A47}|CrudBlazor\\CrudBlazor.csproj|solutionrelative:crudblazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{437975C1-F5CE-4676-BAA5-56805DE29A47}|CrudBlazor\\CrudBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\crudblazor\\crudblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{437975C1-F5CE-4676-BAA5-56805DE29A47}|CrudBlazor\\CrudBlazor.csproj|solutionrelative:crudblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{437975C1-F5CE-4676-BAA5-56805DE29A47}|CrudBlazor\\CrudBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\crudblazor\\crudblazor\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{437975C1-F5CE-4676-BAA5-56805DE29A47}|CrudBlazor\\CrudBlazor.csproj|solutionrelative:crudblazor\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{437975C1-F5CE-4676-BAA5-56805DE29A47}|CrudBlazor\\CrudBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\crudblazor\\crudblazor\\repositorio\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{437975C1-F5CE-4676-BAA5-56805DE29A47}|CrudBlazor\\CrudBlazor.csproj|solutionrelative:crudblazor\\repositorio\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{437975C1-F5CE-4676-BAA5-56805DE29A47}|CrudBlazor\\CrudBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\crudblazor\\crudblazor\\repositorio\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{437975C1-F5CE-4676-BAA5-56805DE29A47}|CrudBlazor\\CrudBlazor.csproj|solutionrelative:crudblazor\\repositorio\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{437975C1-F5CE-4676-BAA5-56805DE29A47}|CrudBlazor\\CrudBlazor.csproj|c:\\users\\ge_ca\\onedrive\\documents\\proyectos\\proyectos-blazor\\crudblazor\\crudblazor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,11 +74,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 234,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 17,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a975660a-81e4-4830-aa25-1b824c3bf732}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "EditarLibro.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\Pages\\Libros\\EditarLibro.razor",
               "RelativeDocumentMoniker": "CrudBlazor\\Pages\\Libros\\EditarLibro.razor",
@@ -94,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "bootstrap.min.css",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
               "RelativeDocumentMoniker": "CrudBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
@@ -106,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CrearLibro.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\Pages\\Libros\\CrearLibro.razor",
               "RelativeDocumentMoniker": "CrudBlazor\\Pages\\Libros\\CrearLibro.razor",
@@ -118,20 +138,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ListaLibros.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\Pages\\Libros\\ListaLibros.razor",
               "RelativeDocumentMoniker": "CrudBlazor\\Pages\\Libros\\ListaLibros.razor",
               "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\Pages\\Libros\\ListaLibros.razor",
               "RelativeToolTip": "CrudBlazor\\Pages\\Libros\\ListaLibros.razor",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADsAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-25T17:14:26.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "CrudBlazor\\Shared\\NavMenu.razor",
@@ -143,31 +163,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Repositorio.cs",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\Repositorio\\Repositorio.cs",
               "RelativeDocumentMoniker": "CrudBlazor\\Repositorio\\Repositorio.cs",
               "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\Repositorio\\Repositorio.cs",
               "RelativeToolTip": "CrudBlazor\\Repositorio\\Repositorio.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAswEUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T15:57:06.938Z"
+              "WhenOpened": "2025-07-25T15:57:06.938Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\Repositorio\\IRepositorio.cs",
-              "RelativeDocumentMoniker": "CrudBlazor\\Repositorio\\IRepositorio.cs",
-              "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\Repositorio\\IRepositorio.cs",
-              "RelativeToolTip": "CrudBlazor\\Repositorio\\IRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T15:52:04.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "20250725154701_MigracionInicial.cs",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\Migrations\\20250725154701_MigracionInicial.cs",
               "RelativeDocumentMoniker": "CrudBlazor\\Migrations\\20250725154701_MigracionInicial.cs",
@@ -179,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\Modelos\\Libro.cs",
               "RelativeDocumentMoniker": "CrudBlazor\\Modelos\\Libro.cs",
@@ -191,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "CrudBlazor\\Data\\ApplicationDbContext.cs",
@@ -203,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\App.razor",
               "RelativeDocumentMoniker": "CrudBlazor\\App.razor",
@@ -215,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\appsettings.json",
               "RelativeDocumentMoniker": "CrudBlazor\\appsettings.json",
@@ -227,19 +236,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\Program.cs",
               "RelativeDocumentMoniker": "CrudBlazor\\Program.cs",
               "ToolTip": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\Program.cs",
               "RelativeToolTip": "CrudBlazor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T15:01:17.827Z"
+              "WhenOpened": "2025-07-25T15:01:17.827Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "WeatherForecastService.cs",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\Data\\WeatherForecastService.cs",
               "RelativeDocumentMoniker": "CrudBlazor\\Data\\WeatherForecastService.cs",
@@ -251,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\Data\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "CrudBlazor\\Data\\WeatherForecast.cs",
@@ -263,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "_Host.cshtml",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\Pages\\_Host.cshtml",
               "RelativeDocumentMoniker": "CrudBlazor\\Pages\\_Host.cshtml",
@@ -275,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\ge_ca\\OneDrive\\Documents\\Proyectos\\Proyectos-blazor\\CrudBlazor\\CrudBlazor\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "CrudBlazor\\Pages\\Index.razor",
