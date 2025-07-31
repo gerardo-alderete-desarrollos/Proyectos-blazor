@@ -1,0 +1,29 @@
+﻿<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">@Title</h5>
+        <p class="card-text">
+            <span>
+                <strong>Titulo: </strong> @Title
+            </span>
+            <span>
+                <strong>Autor: </strong> @(string.Join(", ", Author_name ?? new List<string> { "Desconocido" }))<br
+            </span>
+            <span>
+                <strong>Primer año de publicación: </strong> @First_publish_year
+            </span>
+        </p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+    </div>
+</div>
+
+
+
+@code {
+    [Parameter]
+    public string Title { get; set; } = string.Empty;
+    [Parameter]
+    public List<string>? Author_name { get; set; }
+    [Parameter]
+    public int? First_publish_year { get; set; } 
+
+}
