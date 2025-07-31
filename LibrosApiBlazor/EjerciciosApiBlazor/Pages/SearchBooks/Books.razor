@@ -1,0 +1,43 @@
+﻿@page "/books"
+
+@inject BookService BookService
+
+<h3>📚 Buscador de Libros</h3>
+
+<SearchBooks onSearchTerm="Buscar" />
+
+@if (isLoading)
+{
+    <p>Cargando resultados...</p>
+}
+else if (response != null)
+{
+    if (response.Success)
+    {
+        <div class="d-flex flex-wrap gap-4">
+
+            @foreach (var book in response.Data!)
+            {
+                <CardBook title="@book.Title" Author_name="@book.Author_name" First_publish_year="@book.First_publish_year" />
+            }
+        </div>
+    }
+    else
+    {
+        <p class="text-danger">@response.Message</p>
+    }
+}
+
+@code {
+    private string searchTerm = string.Empty;
+    private ApiResponse<List<BookDoc>>? response;
+    private bool isLoading = false;
+
+    private async Task Buscar(string searchTermChildren)
+    {
+        searchTerm = searchTermChildren;
+        isLoading = true;
+        response = await BookService.SearchBooksByTitleAsync(searchTerm);
+        isLoading = false;
+    }
+}
